@@ -29,7 +29,3 @@ This project focuses on the **visual exploration of cancer-related datasets** us
 - Install [R](https://www.r-project.org/)
 - Install [RStudio](https://www.rstudio.com/)
 
-### Installation Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/cancer-data-visualization.git
